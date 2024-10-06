@@ -1,3 +1,5 @@
+package PortfolioProject2;
+
 @SuppressWarnings("ALL")
 class CounterThread extends Thread {
     private boolean countUp; // Flag to determine if the thread counts up or down
